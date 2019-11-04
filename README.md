@@ -1,0 +1,1 @@
+"locomotion plugin example" 
